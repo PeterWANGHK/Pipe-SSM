@@ -2,7 +2,7 @@
 
 Velocity-Normalized Multi-Channel State-Space Learning for Drift-Robust Joint Segmentation and Defect Classification in Long-Range Eddy-Current Pipe Inspection
 
-![methodology](/assets/PipeNDT_v1.png)
+![methodology](/assets/PISSM_v2.png)
 
 ## Contributions:
 - First physics-informed, velocity-normalized multi-channel selective-SSM for long-range NDT.
