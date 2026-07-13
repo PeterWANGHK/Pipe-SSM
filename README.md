@@ -1,4 +1,4 @@
-# Drift-Robust Joint Segmentation and Defect Classification in Long-Range Eddy-Current Pipe Inspection
+# Physics-Grounded Latent Inversion with Selective State-Space Learning for In-Line PCCP Inspection
 
 ![methodology](/assets/PISSM_v2.png)
 
