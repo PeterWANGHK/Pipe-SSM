@@ -2,6 +2,8 @@
 
 ![methodology](/assets/PISSM_v2.png)
 
+In-line eddy-current testing (ECT) of buried prestressed concrete cylinder pipe (PCCP) produces long dual-frequency impedance records whose statistics shift between inspection campaigns, and learned diagnostic models that perform well on one campaign often fail silently on the next. This article presents a two-stage interpretation framework that treats campaign drift as physics to be inverted rather than noise to be normalized. A model-based latent inversion fits each chainage-indexed record against a closed-form Dodd–Deeds forward operator for the finite-thickness steel cylinder, jointly estimating an effective conductivity–permeability state, a per-sequence channel calibration, and a physics-normalized anomaly stream; boundary conditions are satisfied analytically, and no material constants are assumed. A bidirectional selective state-space network then performs joint boundary localization and severity classification on the inverted features, with abstention driven by dual-detector agreement.
+
 ## Contributions:
 - First physics-informed, velocity-normalized multi-channel selective-SSM for long-range NDT.
 - Learned low-rank common-mode baseline as the drift-robust, label-free substitute for physics.
